@@ -24,7 +24,6 @@ x64/
 [Oo]ut/
 
 # Visual Studio Code files
-.vscode/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -188,3 +187,6 @@ src/Presentation/Nop.Web/wwwroot/images/uploaded/*
 src/Presentation/Nop.Web/wwwroot/files/exportimport/*
 !src/Presentation/Nop.Web/wwwroot/files/exportimport/Index.htm
 src/packages/*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
